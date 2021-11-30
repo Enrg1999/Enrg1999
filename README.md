@@ -5,4 +5,4 @@ an innovative course that offers a unique blend of modern statistics, mathematic
 
 In this Github I've colected some projects I've worked on and that I think can well showcase my capabilities.
 
-You can contact me via e-mail at mailto:enrico.giannelli@studbocconi.it
+You can contact me via e-mail at [enrico.giannelli@studbocconi.it](mailto:enrico.giannelli@studbocconi.it)
